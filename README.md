@@ -1,3 +1,3 @@
 # Brutee
-URL query brute force tool
-common.txt are required!
+# URL query brute force tool
+# common.txt are required!
