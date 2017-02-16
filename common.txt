@@ -1,0 +1,7 @@
+admin
+administrator
+root
+robots.txt
+login
+index.php?id=
+index.php?id=1’
