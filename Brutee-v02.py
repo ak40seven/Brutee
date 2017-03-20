@@ -15,7 +15,7 @@ def usage():
     print "     -t: threads"
     print "     -f: dictionary file\n"
     print " example Brutee.py -w http://www.targetsite.com/FUZZ -t 5 -f common.txt"
-
+#This will replace the word FUZZ with every single word in commons.txt
 
 class request_performer(Thread):
     def __init__(self,word,url):
