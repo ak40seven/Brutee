@@ -3,5 +3,8 @@ administrator
 root
 robots.txt
 login
+.htaccess
+.passwd
+.ssh
 index.php?id=
 index.php?id=1’
